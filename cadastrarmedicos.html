@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadastro de Paciente</title>
+    <title>Cadastro de Medico</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
 </head>
 <body>
@@ -29,29 +29,30 @@
     <form id="pacienteForm" class="p-5">
         <div class="mb-3">
             <label class="form-label">Nome</label>
-            <input type="text" class="form-control" id="nomePaciente" aria-describedby="nomeHelp">
+            <input type="text" class="form-control" id="nomeMedico" aria-describedby="nomeHelp">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Matrícula</label>
+            <input type="text" class="form-control" id="matriMedico" aria-describedby="EnderecoHelp">
         </div>
         <div class="mb-3">
             <label class="form-label">RG</label>
-            <input type="text" class="form-control" id="rgPaciente" aria-describedby="RgHelp">
+            <input type="text" class="form-control" id="rgMedico" aria-describedby="RgHelp">
         </div>
         <div class="mb-3">
             <label class="form-label">CPF</label>
-            <input type="text" class="form-control" id="cpfPaciente" aria-describedby="CpfHelp">
+            <input type="text" class="form-control" id="cpfMedico" aria-describedby="CpfHelp">
         </div>
-        <div class="mb-3">
-            <label class="form-label">Endereço</label>
-            <input type="text" class="form-control" id="enderecoPaciente" aria-describedby="EnderecoHelp">
-        </div>
+        
         <button type="button" class="btn btn-primary" id="cadastrarBtn">Cadastrar</button>
     </form>
 
     <script>
         document.getElementById('cadastrarBtn').addEventListener('click', function() {
-            const nome = document.getElementById('nomePaciente').value;
-            const rg = document.getElementById('rgPaciente').value;
-            const cpf = document.getElementById('cpfPaciente').value;
-            const endereco = document.getElementById('enderecoPaciente').value;
+            const nome = document.getElementById('nomeMedico').value;
+            const matricula = document.getElementById('matriMedico').value;
+            const rg = document.getElementById('rgMedico').value;
+            const cpf = document.getElementById('cpfMedico').value;
 
             const pacienteData = {
                 "Name": nome,
