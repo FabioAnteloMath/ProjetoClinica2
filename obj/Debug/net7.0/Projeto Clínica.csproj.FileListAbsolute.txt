@@ -1,0 +1,37 @@
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.csproj.AssemblyReference.cache
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.AssemblyInfoInputs.cache
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.AssemblyInfo.cs
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\appsettings.json
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Projeto Clínica.exe
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Projeto Clínica.deps.json
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Projeto Clínica.runtimeconfig.json
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Projeto Clínica.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Projeto Clínica.pdb
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\staticwebassets\msbuild.Projeto Clínica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\staticwebassets\msbuild.build.Projeto Clínica.props
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Clínica.props
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projeto Clínica.props
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\scopedcss\bundle\Projeto Clínica.styles.css
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.csproj.CopyComplete
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\refint\Projeto Clínica.dll
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.pdb
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\Projeto Clínica.genruntimeconfig.cache
+C:\Users\Matheus Fabio Antelo\Desktop\Projeto Clínica\obj\Debug\net7.0\ref\Projeto Clínica.dll
